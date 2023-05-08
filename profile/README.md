@@ -1,5 +1,5 @@
 # 💻 Welcome to Psi Beta Rho! 💻
-Psi Beta Rho (a.k.a. PBR or ψβρ) is UCLA's competetive cybersecurity and Capture the Flag (CTF) team! We are a part of [ACM Cyber @ UCLA](https://www.acmcyber.com). Whether we are pwning a binary or attacking a site using cross-site scripting, we like to have fun!
+Psi Beta Rho (a.k.a. PBR or ψβρ) is UCLA's competitive cybersecurity and Capture the Flag (CTF) team! We are a part of [ACM Cyber @ UCLA](https://www.acmcyber.com). Whether we are pwning a binary or attacking a site using cross-site scripting, we like to have fun!
 
 If you are a UCLA student, feel free to join us! No experience necessary!
 
