@@ -7,4 +7,4 @@ This GitHub organization is used by us to contain our writeups, tools, and other
 
 To see what CTFs we've recently attended, visit our [profile](https://ctftime.org/team/186494) on CTF Time.
 
-To contact us, either email us at [uclacyber@gmail.com](mailto:uclacyber@gmail.com) or join the [ACM Cyber Discord](https://discord.gg/j9dgf2q).
+To contact us, either email us at [uclacyber@gmail.com](mailto:uclacyber@gmail.com) or join the [ACM Cyber Discord](https://acmcyber.com/discord).
